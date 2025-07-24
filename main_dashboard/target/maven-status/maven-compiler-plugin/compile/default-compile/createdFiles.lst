@@ -1,0 +1,17 @@
+com\mycompany\main_dashboard\Main_dashboard.class
+com\mycompany\main_dashboard\StatisticsPanel.class
+com\mycompany\main_dashboard\UsersProfile.class
+com\mycompany\main_dashboard\DataAnalysisPanel$3.class
+com\mycompany\main_dashboard\Database.class
+com\mycompany\main_dashboard\DataAnalysisPanel$2.class
+com\mycompany\main_dashboard\MetricsPanel.class
+com\mycompany\main_dashboard\StatisticsPanel$PieChartPanel.class
+com\mycompany\main_dashboard\DataAnalysisPanel$1.class
+com\mycompany\main_dashboard\AdminDashboard.class
+com\mycompany\main_dashboard\UsersProfile$1.class
+com\mycompany\main_dashboard\DataAnalysisPanel.class
+com\mycompany\main_dashboard\StatisticsPanel$LineChartPanel.class
+com\mycompany\main_dashboard\StatisticsPanel$BarChartPanel.class
+com\mycompany\main_dashboard\Main_dashboard$2.class
+com\mycompany\main_dashboard\Main_dashboard$1.class
+com\mycompany\main_dashboard\AdminDashboard$1.class
